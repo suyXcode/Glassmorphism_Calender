@@ -24,3 +24,53 @@ This is a frontend UI page that displays a calendar with a **glassmorphism effec
 
 ## 📁 Project Structure
 
+```
+Glassmorphism_Calender/
+├── index.html
+├── styles.css
+├── script.js
+├── 12.png ← Screenshot / preview image
+└── README.md
+```
+
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+1. **Clone the repository**
+   ```
+   git clone https://github.com/suyXcode/Glassmorphism_Calender.git
+   ```
+
+2. **Open the project folder**
+```
+cd Glassmorphism_Calender
+```
+
+3. **Launch it in your browser**
+
+- Double-click index.html
+- Right-click → Open With → Your Browser
+
+
+
+## 📸 Preview
+
+You can insert a screenshot here (e.g., 12.png) to showcase the glassmorphism calendar UI
+
+![Calendar Preview](12.png)
+
+## 🤝 Contributing
+
+**Contributions, improvements, and design enhancements are welcome!**
+To contribute:
+
+- - Fork the repository
+- - Create your feature branch (git checkout -b feature/XYZ)
+- - Commit your changes
+- - Push to your branch
+- - Open a Pull Request
+
+
+
