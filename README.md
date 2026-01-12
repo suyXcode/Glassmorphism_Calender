@@ -57,8 +57,6 @@ cd Glassmorphism_Calender
 
 ## 📸 Preview
 
-You can insert a screenshot here (e.g., 12.png) to showcase the glassmorphism calendar UI
-
 ![Calendar Preview](12.png)
 
 ## 🤝 Contributing
